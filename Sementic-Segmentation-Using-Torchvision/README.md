@@ -5,6 +5,6 @@
 <img align="center" src = "https://github.com/engineerbekir/PyTorch/blob/master/Sementic-Segmentation-Using-Torchvision/original%20image.jpg" width = "650" height ="400"/>
 
 ## Sementic Segementation on Image
-<img align="center" src = "https://github.com/engineerbekir/PyTorch/blob/master/Sementic-Segmentation-Using-Torchvision/sementicSegmentation%20on%20image.png" width = "650" height ="350"/>
+<img align="center" src = "https://github.com/engineerbekir/PyTorch/blob/master/Sementic-Segmentation-Using-Torchvision/sementicSegmentation%20on%20image.png" width = "650" height ="400"/>
 
 
